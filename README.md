@@ -5,4 +5,3 @@ a legal notice, here is a blessing:
 - May you find forgiveness for yourself and forgive others.
 - May you share freely, never taking more than you give.
 
-**mini SQLITE/TURSO**
